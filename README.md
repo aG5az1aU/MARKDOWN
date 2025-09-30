@@ -38,23 +38,25 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2]
 
 ![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
-Item 1
-Item 2
-Item 3
-Item 4
+*Item 1
+*Item 2
+*Item 3
+*Item 4
 
-Item 1
-  Item 1.1
-  Item 1.2
-Item 2
-  Item 2.1
-Item 3
-Item 4
+*Item 1
+  *Item 1.1
+  *Item 1.2
+*Item 2
+  *Item 2.1
+*Item 3
+*Item 4
 
 1. Item 1
 2. Item 2
 3. Item 3
 4. Item 4
+
+1.2.7.2 Listas desordenadas anidadas
 
 1. Item 1
   1.1 Item 1.1
