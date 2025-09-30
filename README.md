@@ -79,3 +79,6 @@ hemos forzado un salto de línea
 Este texto no es una cita.
 > Este texto daría como resultado una cita
 
+
+<img width="1800" height="1800" alt="imatge" src="https://github.com/user-attachments/assets/8b001d85-40ff-48ee-887b-2934795bfa90" />
+
